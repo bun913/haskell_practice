@@ -1,0 +1,13 @@
+{
+    "name": "HaskellDevContainer",
+    "image": "amd64/haskell",
+    "extensions": [
+        "haskell.haskell",
+        "esbenp.prettier-vscode",
+        "mhutchie.git-graph",
+        "eamodio.gitlens",
+        "codezombiech.gitignore",
+        "xyz.local-history",
+        "donjayamanne.githistory"
+    ]
+  }
